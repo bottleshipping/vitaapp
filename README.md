@@ -22,6 +22,7 @@ Kamu berani lapor penipuan yang punya backingan judol?
 1. buka halaman pelaporan Cloudflare https://abuse.cloudflare.com/phishing
 2. dalam EVIDENCE URLs, isikan:
 > https://lotteryindonesia1.xyz/app/v1/user_info/my
+
 > https://lotteryindonesia1.xyz/app/v1/fake/lst
 3. dalam "logs or other evidence" isikan:
 > This domain is actively being used for pig butchering scam scheme in Indonesia. The scammer will get the victim to open their app store and install the "VITA" scam app. Inside this app, the scammer persuades the victim to put more and more money inside the app, until in the end the funds cannot be retreived. The app itself is using vitapt88.online as login, lotteryindonesia1.xyz as the fake wallet and user info. the VITA app uses netease.im chat service.
@@ -62,6 +63,7 @@ ENGLISH
 1. Open Cloudflare abuse form https://abuse.cloudflare.com/phishing
 2.  EVIDENCE URLs, fill it with:
 > https://lotteryindonesia1.xyz/app/v1/user_info/my
+
 > https://lotteryindonesia1.xyz/app/v1/fake/lst
 3.  "logs or other evidence" fill with:
 > This domain is actively being used for pig butchering scam scheme in Indonesia. The scammer will get the victim to open their app store and install the "VITA" scam app. Inside this app, the scammer persuades the victim to put more and more money inside the app, until in the end the funds cannot be retreived. The app itself is using vitapt88.online as login, lotteryindonesia1.xyz as the fake wallet and user info. the VITA app uses netease.im chat service.
